@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jagruti-hota123
-- 👀 I’m interested in doing Ml/AI
-- 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me through my mail-jagrutihota92@gmail.com 
 
 <!---
